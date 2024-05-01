@@ -1,0 +1,56 @@
+body {
+    background-color: antiquewhite;
+}
+
+.imgstyle {
+    border: 3px solid  #0b57db;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Grande';
+    text-transform: uppercase;
+    color: #0b57db;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+p {
+    font-family: 'Lucida Sans Regular';
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 25px;
+    color: #140878;
+}
+
+a.linkV:visited {
+    color:#0b57db;
+}
+
+a.linkH:hover {
+    color:rgb(255, 20, 79);
+    font-size: 110%;
+    font-style: italic;
+}
+
+ul.liststyle {
+    margin: 20px;
+    color: #140878;
+    font-size: 22px;
+    font-style: italic;
+    border-style: dotted;
+    border-color: #0b57db;
+    border-width: 3px;
+    width: 50%;
+    padding: 20px 40px;
+}
+
+ul.liststyle:hover {
+    border-color:rgb(255, 20, 118);
+}
+
+li.cost {
+    color:rgb(255, 20, 118);
+    font-size: 23px;
+}
